@@ -1,0 +1,1 @@
+# KNN_Avaliacao_Saude_Ortopedica_Pacientes
